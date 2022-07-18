@@ -97,3 +97,16 @@ body{
 .header-heading span{
     color: #d5be8b;
 }
+
+*/ best selling products */
+
+.best-selling-product-section{
+    position: relative;
+    padding: 60px 5vw;
+}
+
+.section-title{
+    text-transform: capitalize;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
